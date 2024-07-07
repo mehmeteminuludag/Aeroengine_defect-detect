@@ -1,4 +1,5 @@
 Proje Adı: Hava Motoru Hatası Tespit Sistemi
+
 Açıklama
 Bu proje, uçaklardaki hava motorlarında meydana gelen hataların türünü tespit etmeyi amaçlamaktadır. 
 Bu sistem, motor verilerini analiz ederek ve derin öğrenme tekniklerini kullanarak, olası hata türlerini belirlemeyi hedeflemektedir.

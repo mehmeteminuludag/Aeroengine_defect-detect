@@ -11,5 +11,6 @@ Kullanıcı dostu arayüzü ile sonuçları görselleştirir.
 
 Hazır verilere burdaki drive bağlantısından erişebilirsiniz : https://drive.google.com/drive/folders/1gyLOfgWVhGGUIL-xbW04bbBTmWemqE6D?usp=sharing
 
+Orijinal veriye de burdaki kaggle bağlatınsından erişebilirsiniz : https://www.kaggle.com/datasets/wolfmedal/aero-engine-defect-new
 
 

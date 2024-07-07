@@ -9,3 +9,7 @@ Motor verilerini gerçek zamanlı olarak analiz eder.
 Hata türlerini sınıflandırmak için derin öğrenme algoritmalarını kullanır.
 Kullanıcı dostu arayüzü ile sonuçları görselleştirir.
 
+Hazır verilere burdaki drive bağlantısından erişebilirsiniz : https://drive.google.com/drive/folders/1gyLOfgWVhGGUIL-xbW04bbBTmWemqE6D?usp=sharing
+
+
+
